@@ -14,9 +14,14 @@
       "email": "r.hertogh@mycademy.com"
     }
   ],
+  "repositories": [
+    {
+        "type": "vcs","url": "https://github.com/Rjgoolsby/bootstrap-tour"
+    }
+  ],
   "require": {
     "yiisoft/yii2": "~2.0.0",
-    "sorich87/bootstrap-tour": "dev-master"
+    "sorich87/bootstrap-tour": "0.1.*"
   },
   "autoload": {
     "psr-4": {
